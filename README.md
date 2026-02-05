@@ -16,7 +16,4 @@ Computer Graphics and Vision is where I'm trying to eventually end up, career-wi
 - [AttendEase](https://github.com/EPaPaBear/AttendEase) — geolocation attendance system, very useful, very practical
 - [voter-registration-system](https://github.com/EPaPaBear/voter-registration-system) — from the Java console app era
 
-## Available for Hire
-Freelancing at the moment. Backend, frontend, the occasional "can you figure out why this authentication isn't working" situation. You know how to reach me.
-
 overworkeddev@proton.me | +44 7366 183503
